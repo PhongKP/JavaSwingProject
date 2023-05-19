@@ -1,5 +1,6 @@
 # JavaSwingProject
 This is my java swing project about coffee management system.
+
 #English
 1) Advantages:
   - It has a complete sales system, statistics, product management, employee management, purchasing, raw materials, and inventory management.
